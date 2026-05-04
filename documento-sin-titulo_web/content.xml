@@ -1,0 +1,611 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ode SYSTEM "content.dtd">
+<ode xmlns="http://www.intef.es/xsd/ode" version="2.0">
+<userPreferences>
+  <userPreference>
+    <key>theme</key>
+    <value>base</value>
+  </userPreference>
+</userPreferences>
+<odeResources>
+  <odeResource>
+    <key>odeId</key>
+    <value>202605041835594CNULA</value>
+  </odeResource>
+  <odeResource>
+    <key>odeVersionId</key>
+    <value>20260504183559MS4R3Z</value>
+  </odeResource>
+  <odeResource>
+    <key>exe_version</key>
+    <value>4.0.0</value>
+  </odeResource>
+</odeResources>
+<odeProperties>
+  <odeProperty>
+    <key>pp_title</key>
+    <value>Documento sin título</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_lang</key>
+    <value>es</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_license</key>
+    <value>creative commons: attribution - share alike 4.0</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_licenseUrl</key>
+    <value>https://creativecommons.org/licenses/by-sa/4.0/</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_theme</key>
+    <value>base</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_exelearning_version</key>
+    <value>v4.0.0</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_modified</key>
+    <value>1777910639767</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addExeLink</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addPagination</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addSearchBox</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addAccessibilityToolbar</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addMathJax</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>exportSource</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_globalFont</key>
+    <value>default</value>
+  </odeProperty>
+</odeProperties>
+<odeNavStructures>
+<odeNavStructure>
+  <odePageId>page-more39fy-tqq2s0ix9</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Título. Descripción de la Sda</pageName>
+  <odeNavStructureOrder>0</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Título. Descripción de la Sda</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Título. Descripción de la Sda</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>Título. Descripción de la Sda</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-more39fy-tqq2s0ix9</odePageId>
+      <odeBlockId>block-1777910643289-j7rxtytzk</odeBlockId>
+      <blockName>Texto</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-more39fy-tqq2s0ix9</odePageId>
+          <odeBlockId>block-1777910643289-j7rxtytzk</odeBlockId>
+          <odeIdeviceId>idevice-1777910643288-2kc2jjoot</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Se plantea una situación de aprendizaje dirigida al alumnado de 4º de ESO de Diversificación Curricular, en el ámbito sociolingüístico, integrando contenidos de Lengua Castellana y Literatura y Geografía e Historia. El grupo está compuesto por 15 alumnos y alumnas, con necesidades educativas diversas, por lo que la propuesta se diseña siguiendo los principios del Diseño Universal para el Aprendizaje (DUA), favoreciendo la inclusión y la participación activa.</p>
+<p>Las áreas implicadas trabajan de forma coordinada: desde Lengua se desarrollan competencias comunicativas, comprensión y producción de textos, mientras que desde Historia se abordan procesos históricos y su interpretación crítica. La organización del aula combina distintos agrupamientos (trabajo individual, parejas y pequeños grupos cooperativos), así como momentos de gran grupo, favoreciendo la interacción y el aprendizaje entre iguales. El espacio se adapta según la actividad, alternando disposición en grupos y en formato asamblea.</p>
+<p>La temporalización se distribuye en 8 sesiones de 55 minutos. A lo largo de estas, el alumnado elaborará varios productos: una infografía con elementos descriptivos sobre lugares concretos sobre la lectura para su posterior ruta literaria, y un podcast en el que narrarán y analizarán hechos de la lectura y la época literaria desde una perspectiva crítica y creativa. Ambos productos fomentan la expresión oral y escrita, así como la competencia digital.</p>
+<p>Para el desarrollo de las tareas se utilizarán herramientas tecnológicas como Canva para la creación de infografías, y Audacity para la grabación y edición del podcast. Además, se emplearán recursos complementarios como vídeos educativos de YouTube y materiales de apoyo proporcionados por el profesorado.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777910643288-2kc2jjoot","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Se plantea una situación de aprendizaje dirigida al alumnado de 4º de ESO de Diversificación Curricular, en el ámbito sociolingüístico, integrando contenidos de Lengua Castellana y Literatura y Geografía e Historia. El grupo está compuesto por 15 alumnos y alumnas, con necesidades educativas diversas, por lo que la propuesta se diseña siguiendo los principios del Diseño Universal para el Aprendizaje (DUA), favoreciendo la inclusión y la participación activa.</p>\n<p>Las áreas implicadas trabajan de forma coordinada: desde Lengua se desarrollan competencias comunicativas, comprensión y producción de textos, mientras que desde Historia se abordan procesos históricos y su interpretación crítica. La organización del aula combina distintos agrupamientos (trabajo individual, parejas y pequeños grupos cooperativos), así como momentos de gran grupo, favoreciendo la interacción y el aprendizaje entre iguales. El espacio se adapta según la actividad, alternando disposición en grupos y en formato asamblea.</p>\n<p>La temporalización se distribuye en 8 sesiones de 55 minutos. A lo largo de estas, el alumnado elaborará varios productos: una infografía con elementos descriptivos sobre lugares concretos sobre la lectura para su posterior ruta literaria, y un podcast en el que narrarán y analizarán hechos de la lectura y la época literaria desde una perspectiva crítica y creativa. Ambos productos fomentan la expresión oral y escrita, así como la competencia digital.</p>\n<p>Para el desarrollo de las tareas se utilizarán herramientas tecnológicas como Canva para la creación de infografías, y Audacity para la grabación y edición del podcast. Además, se emplearán recursos complementarios como vídeos educativos de YouTube y materiales de apoyo proporcionados por el profesorado.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-more39fy-00w5aph6e</odePageId>
+  <odeParentPageId>page-more39fy-tqq2s0ix9</odeParentPageId>
+  <pageName>1. Intención educativa</pageName>
+  <odeNavStructureOrder>0</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>1. Intención educativa</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>1. Intención educativa</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-more39fy-00w5aph6e</odePageId>
+      <odeBlockId>block-1777911673381-ub3iwbmrw</odeBlockId>
+      <blockName>Texto</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-more39fy-00w5aph6e</odePageId>
+          <odeBlockId>block-1777911673381-ub3iwbmrw</odeBlockId>
+          <odeIdeviceId>idevice-1777911673380-a2ezc7cyv</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p style="text-align: justify;">La siguiente Unidad Didáctica tiene como objetivo lograr que los alumnos para los que se plantea asimilen los elementos básicos de la cultura y adquieran las competencias que les desarrollen como ciudadanos y, también, para su inserción laboral. También, asegura la coherencia entre las intenciones educativas de centro y la práctica docente; por otro lado, promueve la reflexión de la propia práctica docente; además de facilitar la progresiva implicación del alumnado en su propio proceso de aprendizaje; y, por último, atiende la diversidad de intereses, motivaciones y características del alumnado.</p>
+<p style="text-align: justify;">El desarrollo afectivo y social del adolescente es uno de los aspectos más complejos del desarrollo humano porque afecta al campo emocional en un periodo de la vida caracterizada por una lucha constante por encontrarse a sí mismo y un lugar en la sociedad. Además de una activa motivación en el aula y en el aprendizaje del alumno, podemos ayudar a gestionar la Inteligencia Emocional de nuestros alumnos. El desarrollo total de un alumno debe ser físico, cognitivo y socioafectivo. Es muy importante la educación emocional en el ámbito escolar porque por encima de conseguir una nota media, formamos personas que deben tener autoestima, conocer y manejar sus emociones, adaptarse al entorno y tener capacidades competenciales para la vida laboral y la sociedad en general. Como docentes podemos aplicar el Efecto Pigmalión en positivo entre nuestros alumnos. Potenciando su autoestima lograrán una mejor actitud, comunicación y resultados. </p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777911673380-a2ezc7cyv","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p style=\"text-align: justify;\">La siguiente Unidad Didáctica tiene como objetivo lograr que los alumnos para los que se plantea asimilen los elementos básicos de la cultura y adquieran las competencias que les desarrollen como ciudadanos y, también, para su inserción laboral. También, asegura la coherencia entre las intenciones educativas de centro y la práctica docente; por otro lado, promueve la reflexión de la propia práctica docente; además de facilitar la progresiva implicación del alumnado en su propio proceso de aprendizaje; y, por último, atiende la diversidad de intereses, motivaciones y características del alumnado.</p>\n<p style=\"text-align: justify;\">El desarrollo afectivo y social del adolescente es uno de los aspectos más complejos del desarrollo humano porque afecta al campo emocional en un periodo de la vida caracterizada por una lucha constante por encontrarse a sí mismo y un lugar en la sociedad. Además de una activa motivación en el aula y en el aprendizaje del alumno, podemos ayudar a gestionar la Inteligencia Emocional de nuestros alumnos. El desarrollo total de un alumno debe ser físico, cognitivo y socioafectivo. Es muy importante la educación emocional en el ámbito escolar porque por encima de conseguir una nota media, formamos personas que deben tener autoestima, conocer y manejar sus emociones, adaptarse al entorno y tener capacidades competenciales para la vida laboral y la sociedad en general. Como docentes podemos aplicar el Efecto Pigmalión en positivo entre nuestros alumnos. Potenciando su autoestima lograrán una mejor actitud, comunicación y resultados. </p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-more39fz-sf8c5w9u2</odePageId>
+  <odeParentPageId>page-more39fy-tqq2s0ix9</odeParentPageId>
+  <pageName>2. Elementos curriculares</pageName>
+  <odeNavStructureOrder>1</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>2. Elementos curriculares</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>2. Elementos curriculares</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-more39fz-sf8c5w9u2</odePageId>
+      <odeBlockId>block-1777911355938-rgp12fr8j</odeBlockId>
+      <blockName>Texto</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-more39fz-sf8c5w9u2</odePageId>
+          <odeBlockId>block-1777911355938-rgp12fr8j</odeBlockId>
+          <odeIdeviceId>idevice-1777911355937-48d6obpqp</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>C. EDUCACIÓN LITERARIA</p>
+<p>C.1. Lectura autónoma</p>
+<p>a) Implicación progresiva en la lectura y reflexión sobre textos y hábitos lectores.<br />b) Participación en actividades culturales literarias.<br />c) Identificación y expresión de gustos e identidad lectora.<br />d) Expresión de la experiencia lectora.<br />e) Recomendación de lecturas situándolas en géneros y subgéneros.</p>
+<p>C.2. Lectura guiada</p>
+<p>a) Lectura de obras relevantes del patrimonio literario (hasta siglo XVIII).<br />b) Interpretación compartida mediante diálogo.<br />c) Análisis de los elementos del género y su efecto en el sentido.<br />d) Uso del contexto histórico y cultural para interpretar.<br />e) Comparación con otros textos y manifestaciones artísticas.<br />f) Interpretación considerando valores culturales, éticos y estéticos.<br />g) Investigación y conexión entre obras.<br />h) Lectura expresiva, dramatización y creación de textos propios.</p>
+<p>Competencias específicas</p>
+<p>CE7 (lectura autónoma)</p>
+<p>7.1 Lectura autónoma según intereses, registrando el itinerario lector.<br />7.2 Compartir lecturas relacionándolas con la experiencia personal.<br />(CCL1, CCL4, CD3, CPSAA1, CCEC1, CCEC2, CCEC3)</p>
+<p>CE8 (interpretación literaria)</p>
+<p>8.1 Interpretar y argumentar obras considerando estructura y contexto.<br />8.2 Relacionar textos con otras obras y manifestaciones culturales.<br />8.3 Crear textos literarios propios con intención estética.<br />(CCL1, CCL4, CC1, CCEC1, CCEC2, CCEC3, CCEC4)</p>
+<p>D. REFLEXIÓN SOBRE LA LENGUA</p>
+<p>a) Construcción guiada de conclusiones sobre el sistema lingüístico.<br />b) Diferencias entre lengua oral y escrita.<br />c) Reconocimiento de las unidades de la lengua.<br />d) Distinción entre forma y función de las palabras.<br />e) Relación entre significado y estructura de la oración.<br />f) Formación de palabras y uso no discriminatorio del lenguaje.</p>
+<p> Competencias específicas</p>
+<p>CE9 (conciencia lingüística)</p>
+<p>9.1 Revisión y mejora de textos propios.<br />9.2 Análisis de la relación entre intención comunicativa y lenguaje.<br />9.3 Formulación de reglas sobre el funcionamiento de la lengua.<br />(CCL1, CCL2, CP2, STEM1, STEM2, CPSAA5)</p>
+<p>CE10 (ética de la comunicación)</p>
+<p>10.1 Identificación y eliminación de usos discriminatorios o manipuladores.<br />10.2 Uso del diálogo para resolver conflictos y alcanzar consensos.<br />(CCL1, CCL5, CP3, CD3, CPSAA3, CC1, CC2, CC3)</p>
+<p> </p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777911355937-48d6obpqp","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>C. EDUCACIÓN LITERARIA</p>\n<p>C.1. Lectura autónoma</p>\n<p>a) Implicación progresiva en la lectura y reflexión sobre textos y hábitos lectores.<br />b) Participación en actividades culturales literarias.<br />c) Identificación y expresión de gustos e identidad lectora.<br />d) Expresión de la experiencia lectora.<br />e) Recomendación de lecturas situándolas en géneros y subgéneros.</p>\n<p>C.2. Lectura guiada</p>\n<p>a) Lectura de obras relevantes del patrimonio literario (hasta siglo XVIII).<br />b) Interpretación compartida mediante diálogo.<br />c) Análisis de los elementos del género y su efecto en el sentido.<br />d) Uso del contexto histórico y cultural para interpretar.<br />e) Comparación con otros textos y manifestaciones artísticas.<br />f) Interpretación considerando valores culturales, éticos y estéticos.<br />g) Investigación y conexión entre obras.<br />h) Lectura expresiva, dramatización y creación de textos propios.</p>\n<p>Competencias específicas</p>\n<p>CE7 (lectura autónoma)</p>\n<p>7.1 Lectura autónoma según intereses, registrando el itinerario lector.<br />7.2 Compartir lecturas relacionándolas con la experiencia personal.<br />(CCL1, CCL4, CD3, CPSAA1, CCEC1, CCEC2, CCEC3)</p>\n<p>CE8 (interpretación literaria)</p>\n<p>8.1 Interpretar y argumentar obras considerando estructura y contexto.<br />8.2 Relacionar textos con otras obras y manifestaciones culturales.<br />8.3 Crear textos literarios propios con intención estética.<br />(CCL1, CCL4, CC1, CCEC1, CCEC2, CCEC3, CCEC4)</p>\n<p>D. REFLEXIÓN SOBRE LA LENGUA</p>\n<p>a) Construcción guiada de conclusiones sobre el sistema lingüístico.<br />b) Diferencias entre lengua oral y escrita.<br />c) Reconocimiento de las unidades de la lengua.<br />d) Distinción entre forma y función de las palabras.<br />e) Relación entre significado y estructura de la oración.<br />f) Formación de palabras y uso no discriminatorio del lenguaje.</p>\n<p> Competencias específicas</p>\n<p>CE9 (conciencia lingüística)</p>\n<p>9.1 Revisión y mejora de textos propios.<br />9.2 Análisis de la relación entre intención comunicativa y lenguaje.<br />9.3 Formulación de reglas sobre el funcionamiento de la lengua.<br />(CCL1, CCL2, CP2, STEM1, STEM2, CPSAA5)</p>\n<p>CE10 (ética de la comunicación)</p>\n<p>10.1 Identificación y eliminación de usos discriminatorios o manipuladores.<br />10.2 Uso del diálogo para resolver conflictos y alcanzar consensos.<br />(CCL1, CCL5, CP3, CD3, CPSAA3, CC1, CC2, CC3)</p>\n<p> </p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-more39fz-1dih0wzub</odePageId>
+  <odeParentPageId>page-more39fy-tqq2s0ix9</odeParentPageId>
+  <pageName>3. Metodologías activas</pageName>
+  <odeNavStructureOrder>2</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>3. Metodologías activas</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>3. Metodologías activas</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-more39fz-1dih0wzub</odePageId>
+      <odeBlockId>block-1777911764053-ud1d79j5j</odeBlockId>
+      <blockName>Texto</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-more39fz-1dih0wzub</odePageId>
+          <odeBlockId>block-1777911764053-ud1d79j5j</odeBlockId>
+          <odeIdeviceId>idevice-1777911764052-t3hwotd3h</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>En líneas generales, nuestro enfoque metodológico se ajustará a los siguientes parámetros: </p>
+<ul>
+<li style="text-align: justify;">Se diseñarán actividades de aprendizaje integradas que permitan a los alumnos avanzar hacia los resultados de aprendizaje de más de una competencia al mismo tiempo. </li>
+<li style="text-align: justify;">La acción docente promoverá que los alumnos sean capaces de aplicar los aprendizajes en una diversidad de contextos. </li>
+<li style="text-align: justify;">Se fomentará la reflexión e investigación, así como la realización de tareas que supongan un reto y desafío intelectual para los alumnos. </li>
+<li style="text-align: justify;">Se diseñan tareas y proyectos que supongan el uso significativo de la lectura, la escritura, las TIC y la expresión oral. </li>
+<li style="text-align: justify;">La actividad de clase favorecerá el trabajo individual, el trabajo en equipo y el trabajo cooperativo. </li>
+<li style="text-align: justify;">Se procurará organizar los contenidos en torno a núcleos temáticos cercanos y significativos, en relación con los proyectos que se desarrollen en el centro </li>
+<li style="text-align: justify;">Se procurará seleccionar materiales y recursos didácticos diversos, variados, interactivos y accesibles, tanto en lo que se refiere al contenido como al soporte. </li>
+</ul>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777911764052-t3hwotd3h","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>En líneas generales, nuestro enfoque metodológico se ajustará a los siguientes parámetros: </p>\n<ul>\n<li style=\"text-align: justify;\">Se diseñarán actividades de aprendizaje integradas que permitan a los alumnos avanzar hacia los resultados de aprendizaje de más de una competencia al mismo tiempo. </li>\n<li style=\"text-align: justify;\">La acción docente promoverá que los alumnos sean capaces de aplicar los aprendizajes en una diversidad de contextos. </li>\n<li style=\"text-align: justify;\">Se fomentará la reflexión e investigación, así como la realización de tareas que supongan un reto y desafío intelectual para los alumnos. </li>\n<li style=\"text-align: justify;\">Se diseñan tareas y proyectos que supongan el uso significativo de la lectura, la escritura, las TIC y la expresión oral. </li>\n<li style=\"text-align: justify;\">La actividad de clase favorecerá el trabajo individual, el trabajo en equipo y el trabajo cooperativo. </li>\n<li style=\"text-align: justify;\">Se procurará organizar los contenidos en torno a núcleos temáticos cercanos y significativos, en relación con los proyectos que se desarrollen en el centro </li>\n<li style=\"text-align: justify;\">Se procurará seleccionar materiales y recursos didácticos diversos, variados, interactivos y accesibles, tanto en lo que se refiere al contenido como al soporte. </li>\n</ul>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-more39fz-5cuubt0oz</odePageId>
+  <odeParentPageId>page-more39fy-tqq2s0ix9</odeParentPageId>
+  <pageName>4. Vinculación con los proyectos del centro</pageName>
+  <odeNavStructureOrder>3</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>4. Vinculación con los proyectos del centro</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>4. Vinculación con los proyectos del centro</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-more39fz-5cuubt0oz</odePageId>
+      <odeBlockId>block-1777911807903-oimj48jul</odeBlockId>
+      <blockName>Texto</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-more39fz-5cuubt0oz</odePageId>
+          <odeBlockId>block-1777911807903-oimj48jul</odeBlockId>
+          <odeIdeviceId>idevice-1777911807902-d4g1jdd7d</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p style="text-align: justify;">De acuerdo con el Proyecto Educativo de nuestro Centro, los planes y programas educativos gozarán de gran importancia, debiendo abordarse de forma interrelacionada y planificándose de manera que se posibilite su seguimiento, evaluación y mejora. En esta unidad didáctica se desarrollan los siguientes plantes y programas:</p>
+<p style="text-align: justify;">•                  Plan de comunicación: este programa favorece la participación y la colaboración de toda la comunidad educativa a través de los medios que tenemos a nuestro alcance (página web y redes sociales del centro, radio y periódico escolar, etc.) </p>
+<p style="text-align: justify;">•                  Plan de igualdad: promueve la educación en valores y la igualdad de sexos, así como la prevención de la violencia de género. </p>
+<p style="text-align: justify;">•                  Plan de digitalización: permite potenciar los procesos de digitalización, tanto en el alumnado como en el profesorado. </p>
+<p style="text-align: justify;">•                  Plan de promoción de la lectura y biblioteca: busca fomentar la lectura, así como potenciar la biblioteca del centro como un espacio activo y abierto a toda la comunidad educativa. </p>
+<p style="text-align: justify;">Por otro lado, en el Programa de Diversificación Curricular el alumnado recibe una mayor atención y refuerzo, es por ello por lo que en este grupo se priorizarán. los contenidos relacionados con las habilidades y las destrezas sociales y comunicativas, así como su integración en la sociedad como personas capacitadas y responsables para desempeñar un oficio. En ese sentido, se favorecerán, siempre que sean viables, situaciones de aprendizaje que permitan trabajar los contenidos de la manera más práctica e instrumental posible. Ello se verá facilitado por nuestra actuación docente, que promoverá la metodología activa, el reconocimiento de los distintos estilos, ritmos de aprendizaje y motivaciones; la variedad en el tipo de actividades y en la forma de trabajar; la terminología gramatical sencilla y clara; el uso de medios audiovisuales y la preponderancia del trabajo en el aula frente al trabajo en casa.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777911807902-d4g1jdd7d","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p style=\"text-align: justify;\">De acuerdo con el Proyecto Educativo de nuestro Centro, los planes y programas educativos gozarán de gran importancia, debiendo abordarse de forma interrelacionada y planificándose de manera que se posibilite su seguimiento, evaluación y mejora. En esta unidad didáctica se desarrollan los siguientes plantes y programas:</p>\n<p style=\"text-align: justify;\">•                  Plan de comunicación: este programa favorece la participación y la colaboración de toda la comunidad educativa a través de los medios que tenemos a nuestro alcance (página web y redes sociales del centro, radio y periódico escolar, etc.) </p>\n<p style=\"text-align: justify;\">•                  Plan de igualdad: promueve la educación en valores y la igualdad de sexos, así como la prevención de la violencia de género. </p>\n<p style=\"text-align: justify;\">•                  Plan de digitalización: permite potenciar los procesos de digitalización, tanto en el alumnado como en el profesorado. </p>\n<p style=\"text-align: justify;\">•                  Plan de promoción de la lectura y biblioteca: busca fomentar la lectura, así como potenciar la biblioteca del centro como un espacio activo y abierto a toda la comunidad educativa. </p>\n<p style=\"text-align: justify;\">Por otro lado, en el Programa de Diversificación Curricular el alumnado recibe una mayor atención y refuerzo, es por ello por lo que en este grupo se priorizarán. los contenidos relacionados con las habilidades y las destrezas sociales y comunicativas, así como su integración en la sociedad como personas capacitadas y responsables para desempeñar un oficio. En ese sentido, se favorecerán, siempre que sean viables, situaciones de aprendizaje que permitan trabajar los contenidos de la manera más práctica e instrumental posible. Ello se verá facilitado por nuestra actuación docente, que promoverá la metodología activa, el reconocimiento de los distintos estilos, ritmos de aprendizaje y motivaciones; la variedad en el tipo de actividades y en la forma de trabajar; la terminología gramatical sencilla y clara; el uso de medios audiovisuales y la preponderancia del trabajo en el aula frente al trabajo en casa.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-more39fz-day85aqa6</odePageId>
+  <odeParentPageId>page-more39fy-tqq2s0ix9</odeParentPageId>
+  <pageName>5. Actividades complementarias y extraescolares</pageName>
+  <odeNavStructureOrder>4</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>5. Actividades complementarias y extraescolares</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>5. Actividades complementarias y extraescolares</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-more39fz-day85aqa6</odePageId>
+      <odeBlockId>block-1777911884537-pi0829td3</odeBlockId>
+      <blockName>Texto</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-more39fz-day85aqa6</odePageId>
+          <odeBlockId>block-1777911884537-pi0829td3</odeBlockId>
+          <odeIdeviceId>idevice-1777911884536-tfxyfnvdr</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>La actividad complementaria para esta Unidad Didáctica se propone la realización de una ruta literaria por Oviedo, ciudad que inspira la Vetusta de la obra, con el objetivo de contextualizar los contenidos trabajados sobre el Realismo y profundizar en la comprensión de la novela. Asimismo, se trata de una propuesta motivadora e inclusiva, adaptable a distintos niveles (en coherencia con PAD) y vinculada al fomento de la lectura (PLEI), que actúa como síntesis experiencial de la unidad didáctica.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777911884536-tfxyfnvdr","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>La actividad complementaria para esta Unidad Didáctica se propone la realización de una ruta literaria por Oviedo, ciudad que inspira la Vetusta de la obra, con el objetivo de contextualizar los contenidos trabajados sobre el Realismo y profundizar en la comprensión de la novela. Asimismo, se trata de una propuesta motivadora e inclusiva, adaptable a distintos niveles (en coherencia con PAD) y vinculada al fomento de la lectura (PLEI), que actúa como síntesis experiencial de la unidad didáctica.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+</odeNavStructures>
+</ode>
